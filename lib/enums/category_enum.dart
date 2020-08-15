@@ -1,0 +1,4 @@
+enum CategoryEnum {
+  Italian,
+  QuickAndEasy,
+}
